@@ -1,1 +1,12 @@
+hr {
+  margin:0;
+}
 
+.rodapé{
+  background-color:var(--branco);
+  pagging:1em;
+}
+
+.lista-rodapé{
+  display:none;
+}
