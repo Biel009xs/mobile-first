@@ -124,3 +124,9 @@ colar:var(--laranja);
 .descrição {
   margin-right: 2em;
 }
+
+.card {
+  width: 60%;
+  margin-left: 3em;
+  }
+}
