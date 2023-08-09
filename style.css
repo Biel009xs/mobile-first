@@ -8,13 +8,19 @@
 :root {
 --cor-de-fundo: #EBECEE;
 --branco: #FFFFFF;
+--Laranja: #E89B00
+--Azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 166.37%)
+--fonte-principal: "Poppins";
+--azul: #002F52;
+--fonte-secundario:"Josefin Sans";
+--preto: #000000;
+--cinza: #474646;
+--cinza-claro: #858585;
 }
-body {
+
+body  {
 background-color: var(--cor-de-fundo);
-}
-<body>
-<h1>Alurabook</h1>
-</body>
-h1 {
-background-color: white;
+font-family: var(--fonte-principal)
+font-size: 16px;
+font-weight: 400;
 }
