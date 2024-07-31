@@ -6,12 +6,12 @@
 }
 
 .banner__titulo {
-    font-size: 18px;
-    font-weight: 700;
+    font-size: 22px;
+    font-weight: 750;
 }
 
 .banner__texto {
-    font-weight: 500;
+    font-weight: 600;
     margin: 1em 0;
 }
 
